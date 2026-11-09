@@ -1,0 +1,5 @@
+N pairs: 300 (150 duplicate / 150 non-duplicate)
+Mean cosine sim, duplicate pairs:     0.881 (sd=0.098)
+Mean cosine sim, non-duplicate pairs: 0.695 (sd=0.201)
+AUROC (cosine sim as duplicate-detector): 0.794
+Point-biserial correlation (label vs. cosine sim): 0.508 (p=4.2e-21)

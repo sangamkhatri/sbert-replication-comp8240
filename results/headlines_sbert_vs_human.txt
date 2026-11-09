@@ -1,0 +1,2 @@
+SBERT cosine sim vs. human score:     Spearman rho = 0.600 (p=0.1157)
+SBERT cosine sim vs. LLM-judge score: Spearman rho = 0.561 (p=0.1479)
